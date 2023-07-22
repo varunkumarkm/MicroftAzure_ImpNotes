@@ -1,0 +1,88 @@
+What is cloud computing
+Cloud computing is the delivery of computing services over the internet. Computing services include common IT infrastructure such as virtual machines, storage, databases, and networking.
+
+Define cloud model:
+Public
+Private
+Hybrid 
+
+Advantages of azure cloud:
+Scaliablity
+Reliability
+Governance and compliance
+Flexibility
+Cost saving 
+
+Disadvantages of azure cloud:
+For the public cloud data ia on public domain
+Security
+Internet 
+
+Disadvantages of private cloud:
+High capital investment 
+Less scaliablity 
+
+Hybrid cloud:
+Hybrid cloud is a cloud where most of the things is present into the private cloud only but few things as per my requirement i can put into the public cloud 
+Which services is given to azure for public domain:
+
+Information as a service(Iaas):
+Storage service
+Virtual machine/compute capacity
+(I need a complete control of a operating system, then I can go through Iaas)
+
+Platform as a service (paas):
+A platform is a combination of hardware + operating system and + application development software
+(I'm ok with the operating system i want to do very small pix to the configuration then i can go for the paas)
+
+Ex: intel i5 + windows10 + ide is one platform.
+Sensolaric +  linux + anyide is other platform.
+Mac machine + ios + anyide is one more platform.
+Mobile + android is one more platform 
+
+Software as a service (saas):
+Saas means the final application, what are infrastructure using the background we don't care and how much data is consume we don't know.
+Ex: Outlook, teams, Microsoft office 365 etc.
+
+Multicloud:
+Geus decide to go for azure
+Geuk decide to go for aws
+But at some point of time decide to transfer the data to cloud l, they decide to merge the cloud, decide to have a communicating the cloud in this scenario i'm in trouble, because 2 different vendors 2 different stories is not good , so that's why it is multi cloud environment, because one vendor can go through 2 different cloud providers
+
+Because of this solution is Azure arc
+
+Azure arc:
+Azure arc is a tool which is help us to manage the multicloud environment, multicloud environment can get manage with the service provided by azure arc.
+
+Azure VMware solution:(Virtual manager)
+It is a tool which will help us to go virtualize the entire past level.
+Help us to create the virtual machine
+Help us to configure the virtual machine 
+
+High availability:
+When we are deploying an application, a service, or any IT resources, azure is gives a highly available cloud environment with uptime guarantees depending on the service. These guarantees are part of service level agreement (SLAs).
+How they maintain:
+They maintain the 3copies of our data that means if one goes down the 2nd copy is available the 2nd goes down 3rd copy is available. That 3 copies are not present in same location, present on the different different locations.
+
+Scaliablity:
+Scaliablity refers to the ability to adjust resources to meet demand
+
+Vertical scaling:
+If we developing an app and we needed more processing power, we could vertically scale up to add more CPUs or RAM to virtual machine. Conversely, if we realized you had over-specified the needs, we could vertically scale down by lowering the CPU or RAM specifications.
+
+Horizontal scaling:
+We could add additional virtual machines or containers, scaling out. In the same manner, if there was a significant drop in demand, 
+
+Benifits of the reliability and predictability:
+
+Reliability:
+It means comming up or recovering from failure, so reliability is doesn't talk about the avoiding of the failure, if failure can occur with in how much time i'm recovering
+
+Predictability:
+Predictabile performance and cost
+When we purchase a certain hardware i can pridect the performance that will gives and i can pridect the cost which is getting use.
+Pricing calculator:
+It is a utility or a tool provided by a azure to us. This tool will help for calculating the price.
+
+Describe the benifits of security and governance in the cloud:
+Security is provided by many different ways like virtual private cloud we can create on that cloud we can put internet gateway, i
